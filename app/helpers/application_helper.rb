@@ -2,7 +2,7 @@ module ApplicationHelper
   DEFAULT_GRAVATAR_SIZE = 60
   DEFAULT_SCREENHERO_URL = "http://screenhero.com"
   GRAVATAR_FALLBACKS = {
-    wa: 'gravatar_fallback_wa.png',
+    wa: 'gravatar_fallback_a11y.png',
     you: 'gravatar_fallback_you.png',
     other: nil,
   }
