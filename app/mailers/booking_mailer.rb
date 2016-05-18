@@ -1,5 +1,5 @@
 class BookingMailer < ActionMailer::Base
-  default from: "Pair With Associates <pair@withassociates.com>"
+  default from: "Pair with ember-a11y <ember.accessibility@gmail.com>"
 
   def teacher_notification(booking)
     @booking = booking
